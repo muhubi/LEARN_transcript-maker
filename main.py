@@ -36,8 +36,6 @@ print("STUDENT GRADUATION YEAR: " + student_grad)
 print("")
 print("DEGREE IN: " + major)
 
-
-
 # Define Student's Latin Honors
 if student_GPA >= 3.7 and student_credits >= required_credits:
     rank = "Summa Cum Lauda"
